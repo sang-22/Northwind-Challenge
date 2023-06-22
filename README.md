@@ -1,5 +1,5 @@
-# Northwind-Challenge
-Maven Analytics - Northwind Dataset Challenge
+# Northwind Traders - Maven Analytics Challenge
+
 Project Description:
 This project focuses on analyzing the sales and order data of a gourmet food supplier called Northwind Traders. Using Power BI, the project explores various aspects of the dataset, including customers, products, orders, shippers, and employees. The goal is to gain valuable insights into sales trends over time, identify the best and worst-selling products, identify key customers, and evaluate the consistency of shipping costs across different providers.
 
