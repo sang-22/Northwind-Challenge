@@ -28,8 +28,6 @@ The available data for 2013 and 2014 shows Quarter 4 is getting the highest sale
 
 The Month of December has the highest sales, and February has the least.
 
-Week 17 and 21 has the highest sales of 2014, and week 16 for 2015 which are in Quarter 2.
-
 Country:
 From 2013-2015 US has the highest Sales amount 10,462.91(18.52%) of the total Sales, the next country is Germany having $8,544(15.12%) and the third is Brazil $5,324(9.42%) of the company's total sales amount which is $56,500.91.
 
