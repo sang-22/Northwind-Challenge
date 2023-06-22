@@ -8,19 +8,19 @@ By leveraging the capabilities of Power BI, this project enables a comprehensive
 
 **Key Insights :**
 
-Year :
+**Year :**
 Sales significantly increased Quarter 1 of 2015.
 
 The available data for 2013 and 2014 shows Quarter 4 is getting the highest sales
 
 The Month of December has the highest sales, and February has the least.
 
-Country:
+**Country:**
 From 2013-2015 US has the highest Sales amount 10,462.91(18.52%) of the total Sales, the next country is Germany having $8,544(15.12%) and the third is Brazil $5,324(9.42%) of the company's total sales amount which is $56,500.91.
 
 Portugal, Norway and Poland have the least sales of 2013-2015, the 3 countries have combined 3% of the total sales amount.
-
-Products :
+**
+Products :**
 Côte de Blaye the top sales amount generating item with $5,902.40 and Camembert Pierrot being the highest sold item.
 
 Côte de Blaye has the highest sales among in the top 3 countries.
