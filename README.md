@@ -25,4 +25,13 @@ Côte de Blaye the top sales amount generating item with $5,902.40 and Camembert
 
 Côte de Blaye has the highest sales among in the top 3 countries.
 
+
 Côte de Blaye, Thüringer Rostbratwurst and Raclette Courdavault are the top 3 products for sales amount, while Genen Shouyu, Geitost and Chocolade were the least.
+
+
+
+Dashbaord images:
+
+![NW 1](https://github.com/sang-22/Northwind-Challenge/assets/60372274/9908226b-fcbf-4810-95eb-485d4c80bf97)
+
+
