@@ -34,7 +34,7 @@ Dashbaord images:
 
 ![NW 1](https://github.com/sang-22/Northwind-Challenge/assets/60372274/9908226b-fcbf-4810-95eb-485d4c80bf97)
 
-
+![NW 2](https://github.com/sang-22/Northwind-Challenge/assets/60372274/9908226b-fcbf-4810-95eb-485d4c80bf97)
 
 ![NW 3](https://github.com/sang-22/Northwind-Challenge/assets/60372274/26c0f24e-9c87-4098-85a3-7bb8ab9e8335)
 
